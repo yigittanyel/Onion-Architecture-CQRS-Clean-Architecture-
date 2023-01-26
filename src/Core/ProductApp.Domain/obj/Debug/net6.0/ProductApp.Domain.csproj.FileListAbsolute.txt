@@ -1,0 +1,12 @@
+D:\repos\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.deps.json
+D:\repos\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.dll
+D:\repos\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.pdb
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.csproj.AssemblyReference.cache
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.AssemblyInfoInputs.cache
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.AssemblyInfo.cs
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.dll
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\refint\ProductApp.Domain.dll
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.pdb
+D:\repos\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net6.0\ref\ProductApp.Domain.dll
